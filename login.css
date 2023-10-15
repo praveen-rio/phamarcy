@@ -1,0 +1,38 @@
+
+
+#login_box {
+	width: 100%;
+    max-width: 400px;
+	background-color: #ffffff;
+	margin-top: 10vh;
+	padding: 2em;
+	border-radius: 10px;
+	box-shadow: 0 0 6px #cccccc;
+}
+
+.input-text-field {
+	font-family: 'Poppins', sans-serif;
+	width: 100%;
+	padding-top: 16px;
+	font-size: 14px;
+	box-sizing: border-box;
+	border: 0;
+	border-bottom: 2px solid #8c8c8c;
+	margin-bottom: 16px;
+	outline: none;
+}
+
+#login_button {
+	width: 100%;
+	border-radius: 30px;
+	padding: 14px 36px;
+	font-size: 12px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	background-color: #20b883;
+	color: #ffffff;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	margin-top: 24px;
+}
